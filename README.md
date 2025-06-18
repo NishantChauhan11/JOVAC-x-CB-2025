@@ -12,7 +12,7 @@ ________________________________________________________________________________
 🧰 Technologies & Tools Used
 ✨ Frontend
    -> HTML, CSS, JavaScript
-   -> Bootstrap / Tailwind CSS
+   -> Bootstrap / Tailwind CSS   
    -> React.js
 ⚙️ Backend
    -> Node.js
