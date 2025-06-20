@@ -5,8 +5,8 @@ This repository currently includes all the assignments, projects, and hands-on c
 _________________________________________________________________________________________________________________________________________________________________
 
 📅 Internship Duration
-->Training Phase: June 10 – July 31
-->Project Phase: August – November
+Training Phase: June 10 – July 31
+Project Phase: August – November
 _________________________________________________________________________________________________________________________________________________________________
 
 🧰 Technologies & Tools Used
