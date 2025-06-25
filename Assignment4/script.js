@@ -2,17 +2,15 @@ const grandparent = document.getElementById("grandparent");
 const parent = document.getElementById("parent");
 const child = document.getElementById("child");
 
-grandparent.addEventListener("click", (e) => {
-  e.stopPropagation();
+grandparent.addEventListener("click", () => {
   console.log("grandparent");
 });
 
-parent.addEventListener("click", (e) => {
-  e.stopPropagation();
+parent.addEventListener("click", () => {
   console.log("parent");
 });
 
-child.addEventListener("click", (e) => {
-  e.stopPropagation();
+child.addEventListener("click", () => {
   console.log("child");
 });
+
