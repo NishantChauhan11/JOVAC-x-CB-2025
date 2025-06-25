@@ -1,18 +1,43 @@
-const grandparent = document.getElementById("grandparent");
-const parent = document.getElementById("parent");
+const grandparent = document.getElementById('grandparent');
+const parent = document.getElementById('parent');
 const child = document.getElementById("child");
 
-grandparent.addEventListener("click", (e) => {
-  e.stopPropagation();
-  console.log("grandparent");
-});
+////  EVENT BUBBLING
 
-parent.addEventListener("click", (e) => {
-  e.stopPropagation();
-  console.log("parent");
-});
 
-child.addEventListener("click", (e) => {
-  e.stopPropagation();
-  console.log("child");
-});
+
+grandparent.addEventListener('click', (e) => {
+    if (e.target === grandparent) {
+        console.log("GRANDPARENT DIV CLICKED");
+    }
+}, true); 
+
+grandparent.addEventListener('click', (e) => {
+    if (e.target === grandparent) {
+        console.log("PARENT DIV CLICKED");
+    }
+}, true);
+grandparent.addEventListener('click', (e) => {
+    if (e.target === grandparent) {
+        console.log("CHILD DIV CLICKED");
+    }
+}, true); 
+
+
+parent.addEventListener('click', (e) => {
+    if (e.target === parent) {
+        console.log("PARENT DIV CLICKED");
+    }
+}, true); 
+
+parent.addEventListener('click', (e) => {
+    if (e.target === parent) {
+        console.log("CHILD DIV CLICKED");
+    }
+}, true); 
+
+child.addEventListener('click', (e) => {
+    if (e.target === child) {
+        console.log("CHILD DIV CLICKED");
+    }
+}, true);
