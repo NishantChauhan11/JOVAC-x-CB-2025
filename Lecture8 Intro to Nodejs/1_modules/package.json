@@ -1,0 +1,16 @@
+{
+  "name": "1_modules",
+  "version": "1.0.0",
+  "main": "./app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant Chauhan",
+  "license": "ISC",
+  "description": " THIS FIRST FILE OF NODE JS",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.1"
+  },
+  "type":"commonjs"
+}
