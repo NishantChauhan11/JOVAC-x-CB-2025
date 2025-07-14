@@ -1,0 +1,1 @@
+console.log("main file of js")
