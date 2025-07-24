@@ -1,46 +1,64 @@
+# About  
+**JOVAC × Coding Blocks Internship – 2025**
 
-# About
-JOVAC-x-CB-2025
-🚀 Full Stack Web Development – JOVAC Internship Welcome to the repository where I’m actively documenting my Full Stack Web Development journey as part of the ongoing JOVAC Internship — a collaborative program by the CEA Department, GLA University, and Coding Blocks. This repository currently includes all the assignments, projects, and hands-on coding practice I’m working on throughout the internship.
+🚀 Welcome to my Full Stack Web Development Internship repository!  
+This space highlights my learning experience during the **JOVAC Internship**, a collaborative initiative between **GLA University's CEA Department** and **Coding Blocks**.
 
-📅 Internship Duration
-Training Phase:
-🟢 June 10, 2025 – July 31, 2025
+Throughout this program, I’ve worked on core web technologies, backend development, and real-world coding tasks to build a solid foundation in full stack development.
 
-Project Phase:
-🚀 August  – November 2025
+---
 
-## 🧰 Tech Stack Covered
-🎨 Frontend
+# 📅 Internship Duration
 
-    🧱 HTML, CSS, JavaScript
+- **Training Phase:** June 10, 2025 – July 31, 2025  
+- **Project Phase:** August 2025 – November 2025  
 
-    🎯 Bootstrap / Tailwind CSS
+---
 
-    ⚛️ React.js
+# 🧠 Topics Covered
 
-🛠️ Backend
+- Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js  
+- Backend: Node.js, Express.js, MongoDB, MySQL  
+- Web Architecture: RESTful APIs, MVC Pattern  
+- Developer Tools: Git, GitHub, Postman, VS Code  
+- Deployment Platforms: Netlify, Vercel, Render, Railway  
+- Security & Auth: JWT, Cookies, Sessions
 
-    🌐 Node.js
+---
 
-    🔧 Express.js
+# 🛠️ Tech Stack
 
-    🗄️ MongoDB / MySQL
+### 🔹 Frontend
+- HTML5  
+- CSS3 / Bootstrap / Tailwind CSS  
+- JavaScript (ES6+)  
+- React.js  
 
-🧪 Tools & Utilities
+### 🔹 Backend
+- Node.js  
+- Express.js  
+- MongoDB / MySQL  
 
-    🐙 Git & GitHub
+### 🔹 Dev Tools & Utilities
+- Git & GitHub  
+- Visual Studio Code  
+- Postman  
 
-    🖥️ Visual Studio Code (VS Code)
+### 🔹 Deployment Platforms
+- Netlify  
+- Vercel  
+- Render  
+- Railway  
 
-    📬 Postman
+---
 
-🚀 Deployment Platforms
+# 🎯 Goals of This Internship
 
-    🌍 Netlify
+- Build and deploy full-stack web applications  
+- Gain hands-on experience with modern web technologies  
+- Strengthen understanding of real-world development tools & workflows  
+- Improve problem-solving, debugging, and team collaboration skills
 
-    ⚡ Vercel
+---
 
-    🛳️ Render
 
-    🚉 Railway
